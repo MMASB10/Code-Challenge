@@ -5,7 +5,7 @@
 #### By *Muhammad Mahrus Bakhshuwein*
 
 ## Description
-Compulsory assignment using Javascript for 3 different problems
+Student Grade Generator and Speed Detector using HTML and Javascript
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
