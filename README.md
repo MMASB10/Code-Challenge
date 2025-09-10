@@ -24,7 +24,6 @@ Git clone  git@github.com:MMASB10/Code-Challenge.git
 
 ## Technologies used
 HTML
-CSS
 Github
 Javascript
 
